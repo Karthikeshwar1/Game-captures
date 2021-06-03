@@ -18,3 +18,9 @@ Click on an image to download
 | [![](<./images/resized/1%20(17).png>)](<./images/1%20(15).png>) | [![](<./images/resized/1%20(18).png>)](<./images/1%20(16).png>) |
 | [![](<./images/resized/1%20(19).png>)](<./images/1%20(13).png>) | [![](<./images/resized/1%20(20).png>)](<./images/1%20(3).png>)  |
 | [![](<./images/resized/1%20(23).png>)](<./images/1%20(17).png>) | [![](<./images/resized/1%20(24).png>)](<./images/1%20(21).png>) |
+
+<br>
+
+# Credits
+
+All images were captured in the game developed by Rockstar Games Inc.
