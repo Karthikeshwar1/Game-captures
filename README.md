@@ -2,7 +2,7 @@
 
 Images can be downloaded from the above folder.
 
-[![](<./images/1%20(8).png>)](<./images/1%20(8).png>)
+[![](<./images/1%20(8).png>)](https://karthikeshwar1.github.io/test-html/index2)
 
 |                                                                 |                                                                 |
 | --------------------------------------------------------------- | --------------------------------------------------------------- |
