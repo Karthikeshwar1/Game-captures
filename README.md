@@ -2,7 +2,7 @@
 
 Images can be downloaded from the above folder.
 
-[![](<./images/1%20(8).png>)](https://karthikeshwar1.github.io/test-html/index2)
+![](<./images/1%20(8).png>)
 
 |                                                                 |                                                                 |
 | --------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -17,7 +17,7 @@ Images can be downloaded from the above folder.
 | ![](<./images/resized/1%20(15).png>) | ![](<./images/resized/1%20(16).png>)  |
 | ![](<./images/resized/1%20(17).png>) | [![](<./images/resized/1%20(18).png>)](https://karthikeshwar1.github.io/test-html/findex) |
 | ![](<./images/resized/1%20(19).png>) | ![](<./images/resized/1%20(20).png>)  |
-| ![](<./images/resized/1%20(23).png>) | ![](<./images/resized/1%20(24).png>) |
+| ![](<./images/resized/1%20(23).png>) | [![](<./images/resized/1%20(24).png>)](https://karthikeshwar1.github.io/test-html/index2) |
 
 <br>
 
